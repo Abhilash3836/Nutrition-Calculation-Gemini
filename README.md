@@ -3,6 +3,7 @@ Experimenting  with gemini-vision-pro
 
 
 steps: 
+
 create conda environment
 
 install requirements,txt
